@@ -154,16 +154,24 @@ flex:2;
     cursor: pointer;
 }
 .btn-primary {
-    color: white;
+    color: black;
     background-color: #56CCF2;
     border: none;
     border-radius: .3em;
     font-weight: bold;
     margin:inherit;
 }
-
-
-
+/* Input*/
+input[type=text] {
+    color: black;
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: #CDD93F;
+    color: white;
+  }
 
 
 .btn-danger {
